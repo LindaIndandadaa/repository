@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524646292 source:e:\cb\codeblocks\workspace\hospital1\main.cpp
+	"dijkstra.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
+1524645126 e:\cb\codeblocks\workspace\hospital1\dijkstra.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cmath>
+
