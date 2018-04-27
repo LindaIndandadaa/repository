@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524565208 source:e:\cb\codeblocks\workspace\xianxingke\main.cpp
+	<iostream>
+	<stdlib.h>
+	"xian.h"
+
+1524565300 e:\cb\codeblocks\workspace\xianxingke\xian.h
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<stack>
+
